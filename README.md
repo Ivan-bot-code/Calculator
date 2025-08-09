@@ -1,2 +1,2 @@
 # Calculator
-My python beauty calculator
+My python calculator project
